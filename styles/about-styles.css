@@ -1,0 +1,19 @@
+h1 {
+  color: grey;
+}
+/* unvisited link */
+a:link {
+  color: rgb(17, 148, 7);
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: rgb(4, 77, 4);
+}
+
+/* mouse over link */
+a:hover {
+  color: rgb(158, 224, 145);
+  text-decoration: underline;
+}

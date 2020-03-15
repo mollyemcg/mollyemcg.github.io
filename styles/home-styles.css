@@ -1,10 +1,18 @@
 h1 {
   font-family: Georgia;
+  text-align: center;
 }
-p 
+p {
   font-family: sans-serif;
+  text-align: center;
 }
 .nav {
   font-family: sans-serif;
   color: DarkGreen;
+  list-style-type: none;
+  text-align: right;
+}
+.nav li {
+  display: inline-block;
+  padding: 10px;
 }

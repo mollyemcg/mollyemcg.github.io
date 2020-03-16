@@ -39,3 +39,18 @@ a:hover {
 a:active {
   color: green;
 }
+
+.lettuce{
+  width:1000px;
+  height:450px;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  opacity: 0.6;
+}
+.centered {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
